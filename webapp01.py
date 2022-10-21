@@ -8,7 +8,7 @@ image01 = Image.open('panda.jpg')
 st.title("Bem vindo, EMEF/EJA Edson Luis Lima Souto!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("passeio escolar para a universidade mackensie")
+st.header("passeio escolar para a universidade mackenzie")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("muito aprendizado")
