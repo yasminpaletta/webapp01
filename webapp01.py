@@ -8,7 +8,7 @@ image01 = Image.open('panda.jpg')
 st.title("Bem vindo, EMEF/EJA Edson Luis Lima Souto!")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Cabeçalho")
+st.header("passeio escolar para a univercidade mackensie")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Sub Cabeçalho")
@@ -43,7 +43,7 @@ elif choice == "Texto_Markdown":
     ##### CRONOGRAMA
     DIA | CH HORÁRIA | CONTEÚDO
     :---------: | :------: | :-------:
-    Dia 1 de 2 | ?h | ? a ?
+    Dia 21 do 10 | 16h | ? a ?
     Dia 2 de 2 | ?h | ? a ?
     """
     )
